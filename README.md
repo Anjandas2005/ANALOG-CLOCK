@@ -18,20 +18,8 @@ This project is a simple yet elegant analog clock built using HTML, CSS, and Jav
 
 ## 🚀 How to Run
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/analog-clock.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd analog-clock
-   ```
-3. Open the `clock.html` file in your browser:
-   ```bash
-   start clock.html  # On Windows
-   open clock.html   # On macOS
-   xdg-open clock.html # On Linux
-   ```
+1. Download or extract the project files to your local machine.
+2. Open the `clock.html` file directly in your browser to view the analog clock in action.
 
 ## 🗃️ Project Structure
 
@@ -45,7 +33,7 @@ Analog Clock/
 
 ## 🌟 Preview
 
-![Screenshot (53)](https://github.com/user-attachments/assets/902571d3-988e-42b2-be44-cfd6758c1aa5)
+![Screenshot (53)](https://github.com/user-attachments/assets/a6c53f03-bc26-4690-81b1-c339deeefe26)
 
 
 ## 📜 License
