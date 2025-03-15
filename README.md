@@ -45,7 +45,8 @@ Analog Clock/
 
 ## 🌟 Preview
 
-Simply open the `clock.html` file directly in your browser to view the analog clock in action. The clock updates in real-time and provides a smooth user experience.
+![Screenshot (53)](https://github.com/user-attachments/assets/902571d3-988e-42b2-be44-cfd6758c1aa5)
+
 
 ## 📜 License
 
